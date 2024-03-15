@@ -66,11 +66,7 @@ namespace token
         {
             Read(@"C:\Users\AL Manar\Desktop\PS\text.txt");
             string[] keyword = { "for", "int", "main", "include", "using", "namespace", "return", "cout", "cin", "endl" };
-            // Console.WriteLine("---------------------------------------------------"); 
-            // for (int i=0; i<keyword.Length; i++) 
-            // search_keayword(@"C:\Users\AL Manar\Desktop\PS\text.txt" , keyword[i]); 
-
-
+           //my name is zainab
         }
     }
 }
