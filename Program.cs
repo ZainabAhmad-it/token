@@ -35,8 +35,9 @@ namespace token
                 for (int k = 0; k < num.Length; k++)
                     if (token[j] == num[k])
                     {
-                        //         Console.WriteLine("THE NMBER TOKEN : {0}", num[k]); 
+                                 Console.WriteLine("THE NMBER TOKEN :"); 
                     }
+                //&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
             }
             Console.WriteLine("---------------------------------------------------");
 
