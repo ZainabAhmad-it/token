@@ -35,8 +35,9 @@ namespace token
                 for (int k = 0; k < num.Length; k++)
                     if (token[j] == num[k])
                     {
-                        //         Console.WriteLine("THE NMBER TOKEN : {0}", num[k]); 
+                                 Console.WriteLine("THE NMBER TOKEN :"); 
                     }
+                //&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
             }
             Console.WriteLine("---------------------------------------------------");
 
@@ -66,11 +67,7 @@ namespace token
         {
             Read(@"C:\Users\AL Manar\Desktop\PS\text.txt");
             string[] keyword = { "for", "int", "main", "include", "using", "namespace", "return", "cout", "cin", "endl" };
-            // Console.WriteLine("---------------------------------------------------"); 
-            // for (int i=0; i<keyword.Length; i++) 
-            // search_keayword(@"C:\Users\AL Manar\Desktop\PS\text.txt" , keyword[i]); 
-
-
+           //my name is zainab
         }
     }
 }
